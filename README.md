@@ -62,6 +62,8 @@ To start a broadcast:
 5. double-click on start.bat
 
 Norman Schmidt
+
 firefather@telenet.be
+
 6/26/2017
 
