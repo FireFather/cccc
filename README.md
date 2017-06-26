@@ -3,6 +3,8 @@ computer chess tournament broadcast system
 
 CCCC is a complete system for broadcasting chess engine games, matches, or tournaments live on the web.
 
+You can see an example of it running here: http://www.chesslogik.com/cccc
+
 It consists of two components:  web server (cccc.zip) and tournament broadcast (cccc-live.zip).
 
 Some documentation (a short guide) is also included (cccc-guide.zip).
