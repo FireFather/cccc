@@ -44,7 +44,7 @@ Palview
 by Andrew Templeton
 http://www.enpassant.dk/chess/palview/
 
-The system aldo includes extensive use of powershell scripts and windows command-line scripts to create, manage, and format comma-delimed text files (results.dat, ratings.dat, etc.).
+The system also includes extensive use of powershell scripts and windows command-line scripts to create, manage, and format comma-delimed text files (results.dat, ratings.dat, etc.) for FTP upload to the web server.
 
 To set it up:
 1. download the web server (cccc.zip), tournament broadcast (cccc-live.zip), and guide (cccc-guide.zip) packages
@@ -55,7 +55,6 @@ To set it up:
 6. verify and customize any scripts and paths according to your specific needs
 
 To start a broadcast:
-
 1. edit the cutechess engines.json file as need be (verify the drive letters and paths are correct for your system)
 2. edit start.bat to change configure any cutechess tournament parameters
 (see cutechess-cli.6.html for details)
